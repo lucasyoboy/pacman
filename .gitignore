@@ -1,0 +1,18 @@
+# Archivos compilados
+*.o
+*.obj
+*.exe
+quoridor_pacman
+quoridor_pacman.exe
+
+# Carpetas de build de Eclipse
+Debug/
+Release/
+
+# Archivos del IDE
+.metadata/
+.settings/
+
+# PDF/imagenes generadas de la presentacion
+output.pdf
+slide-*.jpg
